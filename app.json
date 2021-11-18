@@ -1,0 +1,21 @@
+{
+    "name": "SpammerBot",
+    "description": "Simple Spamming code for a telegram bot in Telethon.",
+    "logo": "",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "atgk"
+    ],
+    "repository": "https://github.com/infotechbro/Keyboard",
+    "website": "https://t.me/Criminal786",
+    "success_url": "https://t.me/Javes2Support",
+    "" 
+
+    "buildpacks": [
+        {
+            "url": "heroku/php"
+        }
+    ]
+}
