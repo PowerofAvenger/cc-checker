@@ -12,7 +12,16 @@
     "website": "https://t.me/Criminal786",
     "success_url": "https://t.me/Javes2Support",
     "" 
+    "env": {
 
+     "APP_ID": {
+
+      "description": "Get this value from my.telegram.org! Please do not steal",
+
+      "value": ""
+
+     },
+}
     "buildpacks": [
         {
             "url": "heroku/php"
